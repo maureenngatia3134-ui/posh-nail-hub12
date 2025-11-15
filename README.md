@@ -2,7 +2,7 @@
 
 ##  Live Demo
 
-Provide your live demo link her e once deployed.
+https://posh-nail-hub.onrender.com
 
 ---
 
